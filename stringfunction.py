@@ -1,5 +1,5 @@
 str = "I am studying python from shrada khapra"
-print(str.endswith(a))
+print(str.endswith("a"))
 
 str = "I am studying python from shrada khapra"
 print(str.replace("o","a"))
@@ -12,3 +12,6 @@ print(str.count("python"))
 
 name= input("enter your name : ")
 print("length of your name is",len(name))
+
+str = " Hi, $I am $ symbol $98.09"
+print(str.count("$"))
