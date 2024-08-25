@@ -3,7 +3,7 @@ age = 22
 if(age <= 18):
     print("can vote and apply for license")
 
-light = "green"
+light == "green"
 if(light == "red"):
     print("stop")
 elif(light = "green"):
